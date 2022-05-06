@@ -5,3 +5,4 @@ chromedriver
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/BCRWebCrawler.iml
 .DS_Store
+result_list.csv
